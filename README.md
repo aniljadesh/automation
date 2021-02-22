@@ -1,7 +1,13 @@
 # Python Automation Testing
 
-#Basic google search automated.
+Using Pycharm.
 
-#Created Unit Test.
+Selenium library.
 
-#Generated HTML reports
+Web Drivers
+
+Basic google search automated.
+
+Created Unit Test.
+
+Generated HTML reports
